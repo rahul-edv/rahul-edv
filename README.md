@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahul-edv
 - 👀 I’m interested in building web applications.
-- 🌱 I’m currently learning React JS.
+- 🌱 I’m currently working on building React JS applications.
 - 💞️ I’m looking to collaborate on open source projects and building dynamic applications
 - 📫 You can reach me @ rahul3791@hotmail.com
 
